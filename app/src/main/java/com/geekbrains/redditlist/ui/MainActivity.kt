@@ -1,7 +1,8 @@
-package com.geekbrains.redditlist
+package com.geekbrains.redditlist.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.geekbrains.redditlist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
